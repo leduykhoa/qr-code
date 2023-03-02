@@ -1,6 +1,6 @@
 {
   "name": "@leduykhoa/qr-code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "qr-code render",
   "main": "index.js",
   "scripts": {
