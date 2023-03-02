@@ -1,7 +1,7 @@
 {
-  "name": "qr-code",
+  "name": "@leduykhoa/qr-code",
   "version": "0.0.1",
-  "description": "full text search for Vietnamese",
+  "description": "qr-code render",
   "main": "index.js",
   "scripts": {
     "test": ""

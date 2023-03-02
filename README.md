@@ -2,7 +2,7 @@
 
 install via npm:
 ```bash
-npm install qr-code --save
+npm install @leduykhoa/qr-code --save
 ```
 ## Basic Usage
 ```javascript
