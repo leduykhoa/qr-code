@@ -1,0 +1,25 @@
+{
+  "name": "qr-code",
+  "version": "0.0.1",
+  "description": "full text search for Vietnamese",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leduykhoa/qr-code.git"
+  },
+  "keywords": [
+    "qr-code"
+  ],
+  "author": "leduykhoa",
+  "license": "ISC",
+  "homepage": "https://github.com/leduykhoa/qr-code#readme",
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/leduykhoa/qr-code/issues"
+  }
+}
